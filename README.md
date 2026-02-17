@@ -63,7 +63,7 @@ PC2 was configured with 192.168.1.4.
 
 <img width="975" height="519" alt="image" src="https://github.com/user-attachments/assets/834830a3-364c-4173-b0ea-2532d86a376f" />
 
-Email configuration involves setting up a mail server and client devices so that messages can be sent and received across a network. The server is configured with SMTP (Simple Mail Transfer Protocol) for sending email and POP3 or IMAP for receiving email. 
+Email configuration involves setting up a mail server and client devices so that messages can be sent and received across a network. The server is configured with SMTP (Simple Mail Transfer Protocol) for sending email and POP3 for receiving email. 
 
 <img width="975" height="518" alt="image" src="https://github.com/user-attachments/assets/daaab5b4-1de5-4ea4-8f0b-d6c1671294bb" />
  
