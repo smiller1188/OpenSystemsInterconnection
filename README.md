@@ -61,19 +61,33 @@ PC1 was configured with 192.168.1.3.
 
 PC2 was configured with 192.168.1.4. 
 
+<img width="975" height="519" alt="image" src="https://github.com/user-attachments/assets/834830a3-364c-4173-b0ea-2532d86a376f" />
+
 Email configuration involves setting up a mail server and client devices so that messages can be sent and received across a network. The server is configured with SMTP (Simple Mail Transfer Protocol) for sending email and POP3 or IMAP for receiving email. 
+
+<img width="975" height="518" alt="image" src="https://github.com/user-attachments/assets/daaab5b4-1de5-4ea4-8f0b-d6c1671294bb" />
  
-Each PC client is configured with the mail server’s IP address, a username, password, and the appropriate incoming and outgoing mail protocol settings.  
- 
+Each PC client is configured with the mail server’s IP address, a username, password, and the appropriate incoming and outgoing mail protocol settings. 
+
+<img width="975" height="519" alt="image" src="https://github.com/user-attachments/assets/75fe919a-e573-4e21-b582-e5c29a1d2efe" />
+
+<img width="975" height="517" alt="image" src="https://github.com/user-attachments/assets/4af16f59-4aa1-42b3-9e2f-6f52368accb3" />
+
 After configuration, email messages can be successfully transmitted between users on the network, confirming proper communication.
- 
+
+<img width="975" height="522" alt="image" src="https://github.com/user-attachments/assets/e5e46acb-306e-41cd-81ff-d4f81a8778d2" />
 
 To demonstrate application-layer services of the OSI model, a DNS record was created on the server for the domain www.watch.com. This allowed any PC in the network to resolve the domain name to the server’s IP address. 
 
+<img width="975" height="516" alt="image" src="https://github.com/user-attachments/assets/d1843e14-09a8-428e-9497-f14970bd550f" />
+
 Web browsing was then tested from a PC to confirm successful name resolution, network communication, and service delivery across the OSI layers. The successful connection verified proper configuration of addressing, switching, DNS services, and end-to-end communication within the simulated network.
- 
+
+<img width="975" height="515" alt="image" src="https://github.com/user-attachments/assets/98b7eaf3-c846-4ea2-b179-25c45c05c4b6" />
+
 When devices such as PCs and servers communicate, data is encapsulated and transmitted using the four layers of the TCP/IP model: Application, Transport, Internet, and Network Access. Packet Tracer allows users to visualize this process through simulations like ping tests, web browsing, DNS resolution, and email transmission.
  
+<img width="975" height="517" alt="image" src="https://github.com/user-attachments/assets/508d09ca-7384-4aa7-a37f-e5ddb5c25ff0" />
 
  
 
