@@ -57,6 +57,8 @@ PC0 was configured with 192.168.1.2.
 
 PC1 was configured with 192.168.1.3. 
 
+<img width="975" height="516" alt="image" src="https://github.com/user-attachments/assets/c57ad2d6-3f4f-4f5b-8ad4-552ca530ec39" />
+
 PC2 was configured with 192.168.1.4. 
 
 Email configuration involves setting up a mail server and client devices so that messages can be sent and received across a network. The server is configured with SMTP (Simple Mail Transfer Protocol) for sending email and POP3 or IMAP for receiving email. 
