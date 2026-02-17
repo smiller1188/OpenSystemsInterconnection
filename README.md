@@ -71,6 +71,7 @@ Each PC client is configured with the mail server’s IP address, a username, pa
 
 <img width="975" height="519" alt="image" src="https://github.com/user-attachments/assets/75fe919a-e573-4e21-b582-e5c29a1d2efe" />
 
+
 <img width="975" height="517" alt="image" src="https://github.com/user-attachments/assets/4af16f59-4aa1-42b3-9e2f-6f52368accb3" />
 
 After configuration, email messages can be successfully transmitted between users on the network, confirming proper communication.
