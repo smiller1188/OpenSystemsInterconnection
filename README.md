@@ -40,3 +40,35 @@ The data link layer is similar to the network layer, except the data link layer 
 This layer includes the physical equipment involved in the data transfer, such as the cables and switches. This is also the layer where the data gets converted into a binary stream, which is a string of 1s and 0s. The physical layer of both devices must also agree on a signal convention so that the 1s can be distinguished from the 0s on both devices.
 
 Data flows down the seven OSI layers on the sender's device (encapsulation) and up the layers on the receiver's device (de-encapsulation). Data starts as user input (Application Layer), is formatted/encrypted (Presentation), managed (Session), segmented (Transport), packetized (Network), framed (Data Link), and converted to bits (Physical) for transmission. The receiving device reverses the process, moving from Layer 1 up to Layer 7.
+
+Open Systems Interconnection (OSI) Model using Cisco Trace Packet
+
+Cisco Packet Tracer was used to design and test a basic network topology that demonstrates communication across the layers of the OSI model. The topology included one switch, one server, and three PCs connected within the same local network. 
+
+All devices were configured on the network 192.168.1.0/24 using the subnet mask 255.255.255.0. The server was assigned the IP address 192.168.1.254.  
+
+PC0 was configured with 192.168.1.2. 
+
+PC1 was configured with 192.168.1.3. 
+
+PC2 was configured with 192.168.1.4. 
+
+Email configuration involves setting up a mail server and client devices so that messages can be sent and received across a network. The server is configured with SMTP (Simple Mail Transfer Protocol) for sending email and POP3 or IMAP for receiving email. 
+ 
+Each PC client is configured with the mail server’s IP address, a username, password, and the appropriate incoming and outgoing mail protocol settings.  
+ 
+After configuration, email messages can be successfully transmitted between users on the network, confirming proper communication.
+ 
+
+To demonstrate application-layer services of the OSI model, a DNS record was created on the server for the domain www.watch.com. This allowed any PC in the network to resolve the domain name to the server’s IP address. 
+
+Web browsing was then tested from a PC to confirm successful name resolution, network communication, and service delivery across the OSI layers. The successful connection verified proper configuration of addressing, switching, DNS services, and end-to-end communication within the simulated network.
+ 
+When devices such as PCs and servers communicate, data is encapsulated and transmitted using the four layers of the TCP/IP model: Application, Transport, Internet, and Network Access. Packet Tracer allows users to visualize this process through simulations like ping tests, web browsing, DNS resolution, and email transmission.
+ 
+
+ 
+
+ 
+
+
