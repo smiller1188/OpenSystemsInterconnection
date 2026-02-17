@@ -41,7 +41,7 @@ This layer includes the physical equipment involved in the data transfer, such a
 
 Data flows down the seven OSI layers on the sender's device (encapsulation) and up the layers on the receiver's device (de-encapsulation). Data starts as user input (Application Layer), is formatted/encrypted (Presentation), managed (Session), segmented (Transport), packetized (Network), framed (Data Link), and converted to bits (Physical) for transmission. The receiving device reverses the process, moving from Layer 1 up to Layer 7.
 
-**Open Systems Interconnection (OSI) Model using Cisco Trace Packet**
+**Open Systems Interconnection (OSI) Model using Cisco Packet Tracer**
 
 Cisco Packet Tracer was used to design and test a basic network topology that demonstrates communication across the layers of the OSI model. The topology included one switch, one server, and three PCs connected within the same local network. 
 
