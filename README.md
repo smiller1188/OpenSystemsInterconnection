@@ -45,6 +45,8 @@ Data flows down the seven OSI layers on the sender's device (encapsulation) and 
 
 Cisco Packet Tracer was used to design and test a basic network topology that demonstrates communication across the layers of the OSI model. The topology included one switch, one server, and three PCs connected within the same local network. 
 
+<img width="975" height="520" alt="Image" src="https://github.com/user-attachments/assets/225ee568-954e-43ff-9be6-12af13133efd" />
+
 All devices were configured on the network 192.168.1.0/24 using the subnet mask 255.255.255.0. The server was assigned the IP address 192.168.1.254.  
 
 PC0 was configured with 192.168.1.2. 
