@@ -53,6 +53,8 @@ All devices were configured on the network 192.168.1.0/24 using the subnet mask 
 
 PC0 was configured with 192.168.1.2. 
 
+<img width="975" height="522" alt="image" src="https://github.com/user-attachments/assets/2b689ee0-8722-4470-9820-f83c474c2b0b" />
+
 PC1 was configured with 192.168.1.3. 
 
 PC2 was configured with 192.168.1.4. 
