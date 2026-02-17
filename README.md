@@ -49,6 +49,8 @@ Cisco Packet Tracer was used to design and test a basic network topology that de
 
 All devices were configured on the network 192.168.1.0/24 using the subnet mask 255.255.255.0. The server was assigned the IP address 192.168.1.254.  
 
+<img width="975" height="516" alt="Image" src="https://github.com/user-attachments/assets/d7335ae6-a103-4778-a464-464d33dad751" />
+
 PC0 was configured with 192.168.1.2. 
 
 PC1 was configured with 192.168.1.3. 
