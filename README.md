@@ -43,7 +43,7 @@ Data flows down the seven OSI layers on the sender's device (encapsulation) and 
 
 **Open Systems Interconnection (OSI) Model using Cisco Packet Tracer**
 
-Cisco Packet Tracer was used to design and test a basic network topology that demonstrates communication across the layers of the OSI model. The topology included one switch, one server, and three PCs connected within the same local network. 
+Cisco Packet Tracer was used to design and test a basic network topology that demonstrates communication across the layers of the OSI model. The topology includes one switch, one server, and three PCs connected within the same local network. 
 
 <img width="975" height="520" alt="Image" src="https://github.com/user-attachments/assets/225ee568-954e-43ff-9be6-12af13133efd" />
 
